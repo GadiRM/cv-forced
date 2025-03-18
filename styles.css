@@ -1,6 +1,7 @@
 /* Fuente general para todo el código */
 body {
     font-family: 'Poppins', sans-serif; /* Usa una fuente limpia y moderna */
+    font-size: 12px; /* Ajusta el tamaño de la fuente general */
 }
 
 
